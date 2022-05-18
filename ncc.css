@@ -1,0 +1,53 @@
+body{
+    background: rgb(178, 190, 195);
+}
+.logos{
+    width: 75px;
+    align-content: left;
+}
+.logos:hover{
+    width: 90px;
+}
+.logo:hover{
+    width: 200px;
+}
+.form-control-inline {
+    min-width: 0;
+    width: auto;
+    display: flex;
+}
+.color-me{
+    color:black;
+}
+.color-me:hover{
+    color:orange;
+}
+.location{
+    margin-top:100;
+    margin-bottom:justify;
+    text-align:right;
+}
+.jumbotron{
+    margin-top: 50px;
+    text-align: center;
+    background-color: rgb(223, 230, 233);
+}
+.head{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.colo{
+    padding: 110px;
+    text-align:center;
+}
+
+
+.bot-danger:hover{
+    background-color: blue;
+    border-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px 20px;
+}
+.background-red{
+    background: rgb(178, 190, 195);
+}
